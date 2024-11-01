@@ -11,7 +11,7 @@ git clone https://github.com/pedroivocs/checklister.git
 
 Navegue até a pasta do projeto:
 ~~~sh
-cd cupcakestore/
+cd checklister/
 ~~~
 
 Atualize os módulos:
